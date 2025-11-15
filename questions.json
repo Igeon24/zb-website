@@ -1,0 +1,2345 @@
+{
+    "questions": [
+        {
+            "category": "Arithmetic Reasoning",
+            "question": "If a car is towed 12 miles to the repair shop and the tow charge is $3.50 per mile, how much does the tow cost?",
+            "choices": ["$12.00", "$3.50", "$42.00", "$100.00"],
+            "answer": "$42.00",
+            "explanation": "Multiply 12 miles by $3.50 per mile: 12 × 3.50 = $42.00."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "The sum of two numbers is 70. One number is 8 more than the other. What's the smaller number?",
+            "choices": ["31", "33", "35", "36"],
+            "answer": "31",
+            "explanation": "Let x = smaller number. Then x + (x+8) = 70 → 2x + 8 = 70 → x = 31."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "A sales manager buys antacid in bottles by the gross. If he goes through 3 bottles every day, how long will the gross last?",
+            "choices": ["144 days", "3 days", "20 days", "48 days"],
+            "answer": "48 days",
+            "explanation": "A gross = 144 bottles. Divide 144 ÷ 3 bottles/day = 48 days."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "Jenny's test grades are 93, 89, 96, and 98. If she wishes to raise her average to 95, what does she need to score on her next test?",
+            "choices": ["100", "99", "97", "95"],
+            "answer": "99",
+            "explanation": "Total needed = 95 × 5 = 475. Current sum = 376. Required score = 475 - 376 = 99."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "A waitress earns an average of 12% of the cost of the food she serves. If she serves $375 worth of food in one evening, how much money in tips will she earn?",
+            "choices": ["$37", "$45", "$42", "$420"],
+            "answer": "$45",
+            "explanation": "Multiply $375 × 0.12 = $45."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "How many square feet of carpeting are needed to carpet a 12-foot × 12-foot room?",
+            "choices": ["24", "120", "48", "144"],
+            "answer": "144",
+            "explanation": "Area = length × width = 12 × 12 = 144 sq ft."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "Joe received an hourly wage of $8.15. His boss gave him a 7% raise. How much does Joe make per hour now?",
+            "choices": ["$0.57", "$8.90", "$8.72", "$13.85"],
+            "answer": "$8.72",
+            "explanation": "Raise = 8.15 × 0.07 = 0.57. New wage = 8.15 + 0.57 = 8.72."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "Alice leaves her house driving east at 45 mph. Thirty minutes later Dave sets off after her. How fast must Dave travel to catch up with Alice 3 hours after he leaves?",
+            "choices": ["49 mph", "50.5 mph", "52.5 mph", "54 mph"],
+            "answer": "52.5 mph",
+            "explanation": "Alice travels 3.5 hours × 45 mph = 157.5 miles. Dave has 3 hours to cover 157.5 miles → 157.5 ÷ 3 = 52.5 mph."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "Miriam bought five cases of motor oil on sale. A case normally costs $24.00, but she paid $22.50. How much did she save?",
+            "choices": ["$7.50", "$1.50", "$8.00", "$22.50"],
+            "answer": "$7.50",
+            "explanation": "Savings per case = 24 - 22.50 = 1.50. Multiply by 5 = 7.50."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "A security guard walks the equivalent of six city blocks when he makes a circuit around the building. If he walks at a pace of eight city blocks every 30 minutes, how long will it take him to complete a circuit?",
+            "choices": ["20.00 minutes", "3.75 minutes", "22.50 minutes", "7.5 minutes"],
+            "answer": "22.50 minutes",
+            "explanation": "Time per block = 30 ÷ 8 = 3.75 minutes. Multiply by 6 = 22.5 minutes."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "The population of Grand Island, Nebraska, grew by 600,000 people between 1995 and 2005, one-fifth more than predicted. What was the original prediction?",
+            "choices": ["400,000", "500,000", "300,000", "100,000"],
+            "answer": "500,000",
+            "explanation": "600,000 = 1.2x → x = 600,000 ÷ 1.2 = 500,000."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "Karl is driving in Austria at 75 km/h. Knowing that a kilometer is about 5/8 of a mile, approximately how many miles per hour is Karl traveling?",
+            "choices": ["47", "120", "50", "53"],
+            "answer": "47",
+            "explanation": "75 × (5/8) = 46.875 ≈ 47 mph."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "A carpenter earns $12.30 an hour for a 40-hour week. His overtime pay is 1.5 times his base pay. If he works 46 hours, how much is his weekly pay?",
+            "choices": ["$602.70", "$492.00", "$565.80", "$110.70"],
+            "answer": "$602.70",
+            "explanation": "Base = 40 × 12.30 = $492. Overtime = 6 × 18.45 = $110.70. Total = $602.70."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "An office building has 30 employees and provides 42 square feet of work space per employee. If five more employees are hired, how much less work space will each employee have?",
+            "choices": ["6 square feet", "7 square feet", "7.5 square feet", "36 square feet"],
+            "answer": "6 square feet",
+            "explanation": "Total space = 30 × 42 = 1260 sq ft. With 35 employees = 36 sq ft each. Difference = 42 - 36 = 6 sq ft."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "Stan bought a monster truck for a $2,000 down payment and $450 a month for five years. What's the total cost?",
+            "choices": ["$4,250", "$29,000", "$27,000", "$34,000"],
+            "answer": "$29,000",
+            "explanation": "Monthly payments = 60 × 450 = 27,000. Add down payment = 29,000."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "Michael needs 55 gallons of paint. Which option costs the least?",
+            "choices": [
+              "two 25-gallon buckets at $550 each",
+              "eleven 5-gallon buckets at $108 each",
+              "six 10-gallon buckets at $215 each",
+              "fifty-five 1-gallon buckets at $23 each"
+            ],
+            "answer": "eleven 5-gallon buckets at $108 each",
+            "explanation": "Option B = 11 × 108 = $1188. Option C = $1290. Option D = $1265. Option A insufficient paint."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "A FEMA food truck carries up to 3 tons. Each resident gets 3 meals a day (12 oz breakfast, 18 oz lunch, 18 oz dinner). How many residents can be fed for 10 days?",
+            "choices": ["150 residents", "200 residents", "250 residents", "300 residents"],
+            "answer": "200 residents",
+            "explanation": "Truck capacity = 3 tons = 6000 lbs = 96,000 oz. Each resident consumes 48 oz/day. 96,000 ÷ 48 = 2000 meals/day."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "A train headed south for Wichita left the station at the same time a train headed north for Des Moines left the same station. The train headed to Wichita traveled 55 miles per hour. The train headed for Des Moines traveled at 70 miles per hour. How many miles apart are the trains at the end of three hours?",
+            "choices": ["210 miles", "165 miles", "125 miles", "375 miles"],
+            "answer": "375 miles",
+            "explanation": "Wichita train: 55 × 3 = 165 miles. Des Moines train: 70 × 3 = 210 miles. Add = 375 miles."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "A carpenter needs to cut four sections, each 3 feet, 8 inches long, from a piece of molding. If the board is only sold by the foot, what's the shortest length of board she can buy?",
+            "choices": ["15 feet", "14 feet", "16 feet", "12 feet"],
+            "answer": "15 feet",
+            "explanation": "Each section is 3⅔ feet. Four sections = 14⅔ feet. Must buy 15 feet."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "Kiya had only one coupon for 10% off one frozen turkey breast. The turkey breast costs $8.50 each, and Kiya wanted to buy two. How much did she pay?",
+            "choices": ["$16.15", "$17.00", "$15.30", "$7.65"],
+            "answer": "$16.15",
+            "explanation": "Discounted turkey = $8.50 - $0.85 = $7.65. Add second turkey $8.50. Total = $16.15."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "Your car uses gasoline at a rate of 21 miles per gallon. If gasoline costs $2.82 per gallon and you drive for 7 hours at a speed of 48 miles per hour, how much will you pay for gasoline for the trip?",
+            "choices": ["$38.18", "$45.12", "$47.73", "$59.27"],
+            "answer": "$45.12",
+            "explanation": "Distance = 7 × 48 = 336 miles. Gas needed = 336 ÷ 21 = 16 gallons. Cost = 16 × 2.82 = $45.12."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "If you roll two six-sided dice, what's the probability of not rolling a five on either die?",
+            "choices": ["1/36", "1/6", "4/36", "25/36"],
+            "answer": "25/36",
+            "explanation": "Probability of not rolling a 5 = 5/6. For two dice: (5/6) × (5/6) = 25/36."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "Jack loaned Bob $1,500 at an annual interest rate of 7%. After one year, how much will Bob owe Jack?",
+            "choices": ["$105", "$1,500", "$1,605", "$1,507"],
+            "answer": "$1,605",
+            "explanation": "Interest = 1500 × 0.07 = 105. Total = 1500 + 105 = 1605."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "A 2-ton truck is taxed at a rate of $0.12 per pound. How much is the total tax bill?",
+            "choices": ["$480", "$240", "$120", "$600"],
+            "answer": "$480",
+            "explanation": "2 tons = 4000 lbs. Multiply 4000 × 0.12 = 480."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "If ab = 10 and a² + b² = 30, solve for y in the equation y = (a+b)².",
+            "choices": ["40", "45", "50", "55"],
+            "answer": "50",
+            "explanation": "Expand: (a+b)² = a² + b² + 2ab. Substitute: 30 + 20 = 50."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "A half-pint of cream is what part of a gallon?",
+            "choices": ["1/8", "1/4", "1/16", "1/6"],
+            "answer": "1/16",
+            "explanation": "1 gallon = 8 pints = 16 half-pints. So half-pint = 1/16 gallon."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "The cost of a protein bar increased from $2.50 to $2.80. The percent increase was how much?",
+            "choices": ["16%", "10%", "15%", "12%"],
+            "answer": "12%",
+            "explanation": "Increase = 2.80 - 2.50 = 0.30. Divide by original 2.50 → 0.30 ÷ 2.50 = 0.12 = 12%."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "An aircraft flies over Boondock Air Force Base at 10:20 a.m. At 10:32 a.m., the plane passes over Sea Side Naval Air Station, 120 miles away. How fast is the aircraft traveling?",
+            "choices": ["400 mph", "500 mph", "600 mph", "700 mph"],
+            "answer": "600 mph",
+            "explanation": "Time = 12 minutes = 0.2 hr. Speed = 120 ÷ 0.2 = 600 mph."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "John bought a camera on sale that normally costs $160. If the price was reduced 20% during the sale, what was the sale price of the camera?",
+            "choices": ["$120", "$124", "$128", "$140"],
+            "answer": "$128",
+            "explanation": "20% of 160 = 32. Sale price = 160 - 32 = 128."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "A certain box contains baseballs and golf balls. If the ratio of baseballs to golf balls is 2:3 and there are 30 baseballs in the box, how many golf balls are in the box?",
+            "choices": ["18", "20", "36", "45"],
+            "answer": "45",
+            "explanation": "Ratio 2:3 = 30:x. Cross multiply: 2x = 90 → x = 45."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "Four people shared a taxi to the airport. The fare was $36.00, and they gave the driver a tip equal to 25% of the fare. If they equally shared the cost of the fare and tip, how much did each person pay?",
+            "choices": ["$9.75", "$10.25", "$10.75", "$11.25"],
+            "answer": "$11.25",
+            "explanation": "Tip = 36 × 0.25 = 9. Total = 36 + 9 = 45. Divide by 4 = 11.25."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "If a car travels 1/100 of a kilometer each second, how many kilometers does it travel in an hour?",
+            "choices": ["36", "60", "72", "100"],
+            "answer": "36",
+            "explanation": "1 hour = 3600 seconds. Distance = 3600 × (1/100) = 36 km."
+          },
+          {
+            "category": "Arithmetic Reasoning",
+            "question": "Ms. Smith drove a total of 700 miles on a business trip. If her car averaged 35 miles per gallon of gasoline and gasoline cost $1.25 per gallon, what was the cost in dollars of the gasoline for the trip?",
+            "choices": ["$20.00", "$24.00", "$25.00", "$40.00"],
+            "answer": "$25.00",
+            "explanation": "Gas needed = 700 ÷ 35 = 20 gallons. Cost = 20 × 1.25 = 25."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "The volume of a box with dimensions 3 cm × 4 cm × 5 cm is:",
+            "choices": ["12 cm³", "15 cm³", "20 cm³", "60 cm³"],
+            "answer": "60 cm³",
+            "explanation": "Volume = length × width × height = 3 × 4 × 5 = 60 cm³."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "If n is a positive integer divisible by 7, and if n < 70, what is the greatest possible value of n?",
+            "choices": ["49", "56", "63", "69"],
+            "answer": "63",
+            "explanation": "70 is divisible by 7. The largest multiple less than 70 is 70 − 7 = 63."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "Blair's average on two physics tests is 7. What score must Blair earn on the next test to have an overall average of 8?",
+            "choices": ["7", "8", "9", "10"],
+            "answer": "10",
+            "explanation": "Current total = 14. For 3 tests at average 8, total must be 24. New score = 24 − 14 = 10."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "(4x + 2)(x + 1) =",
+            "choices": ["5x + 3", "4x² + 6x + 2", "4x + 2x + 2", "4x² + 2"],
+            "answer": "4x² + 6x + 2",
+            "explanation": "Multiply: (4x × x) + (4x × 1) + (2 × x) + (2 × 1) = 4x² + 4x + 2x + 2 = 4x² + 6x + 2."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "2 − 8 ÷ (24 ÷ 2) =",
+            "choices": ["-6", "-¾", "1", "2"],
+            "answer": "1",
+            "explanation": "Order of operations: 24 ÷ 2 = 12. Then 8 ÷ 12 = 0.67. Correction from text: 2 − 8 ÷ (16 ÷ 2) = 2 − 8 ÷ 8 = 2 − 1 = 1."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "3(x − 4) = 18, what is the value of x?",
+            "choices": ["3/2", "22/3", "6", "10"],
+            "answer": "10",
+            "explanation": "Divide both sides by 3: x − 4 = 6. Add 4: x = 10."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "A scoutmaster surveys his troop for fishing poles owned. What is the mode of the data set?",
+            "choices": ["0", "1", "2", "3"],
+            "answer": "0",
+            "explanation": "The mode is the most frequent value. Largest group (7 scouts) own 0 poles."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "Line l passes through the point (−1, 2). Which of the following CANNOT be the equation of line l?",
+            "choices": ["y = 1 − x", "y = x + 1", "x = −1", "y = x + 3"],
+            "answer": "y = x + 1",
+            "explanation": "Plugging x = −1 into y = x + 1 gives y = 0, not 2. So it cannot be the equation."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "If 5¹¹ = 5² × 5ᵐ, what is the value of m?",
+            "choices": ["3", "5.5", "9", "12.5"],
+            "answer": "9",
+            "explanation": "Add exponents: 11 = 2 + m → m = 9."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "Which of these expressions is equivalent to: 3x³y⁵ + 3x⁵y³ − (4x⁵y³ − 3x³y⁵)?",
+            "choices": ["-x⁵y³", "6x⁵y³ − x³y⁵", "7x⁵y³", "6x³y⁵ − x⁵y³"],
+            "answer": "6x³y⁵ − x⁵y³",
+            "explanation": "Distribute negative: 3x³y⁵ + 3x⁵y³ − 4x⁵y³ + 3x³y⁵ = 6x³y⁵ − x⁵y³."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "A rectangle is cut in half to create two squares that each have an area of 25. What is the perimeter of the original rectangle?",
+            "choices": ["20", "25", "30", "35"],
+            "answer": "30",
+            "explanation": "Square side = √25 = 5. Rectangle dimensions = 5 × 10. Perimeter = 5 + 10 + 5 + 10 = 30."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "If XY = YZ and angle Y = 90°, which of the following CANNOT be concluded?",
+            "choices": ["a = b", "XZ < XY", "a + b = 90", "XZ² = XY² + YZ²"],
+            "answer": "XZ < XY",
+            "explanation": "In a right triangle, the hypotenuse (XZ) is always the longest side, so XZ < XY is false."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "If (3.2 + 3.3 + 3.5)w = w, what is the value of w?",
+            "choices": ["0", "1/10", "1", "10"],
+            "answer": "0",
+            "explanation": "Sum = 10. Equation: 10w = w → 9w = 0 → w = 0."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "There are two pizza ovens. Oven 1 burns three times as many pizzas as oven 2. If the restaurant had a total of 12 burnt pizzas, how many did oven 2 burn?",
+            "choices": ["3", "6", "9", "12"],
+            "answer": "3",
+            "explanation": "Let oven 2 = y. Oven 1 = 3y. Total = 4y = 12 → y = 3."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "Use the Pythagorean Theorem to find the triangle's height if c = 29 and a = 20.",
+            "choices": ["19", "20", "21", "22"],
+            "answer": "21",
+            "explanation": "29² = 20² + h² → 841 = 400 + h² → h² = 441 → h = 21."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "If x + y = 2 and x − y = 1, then:",
+            "choices": ["x = 1, y = 1", "x = 2, y = 1", "x = 3/2, y = 1/2", "x = 0, y = 2"],
+            "answer": "x = 3/2, y = 1/2",
+            "explanation": "Add equations: 2x = 3 → x = 1.5. Then y = 0.5."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "If x = 8, what's the value of y in the equation y = (x² ÷ 4) − 2?",
+            "choices": ["14", "16","18","20"],
+            "answer": "14",
+            "explanation": "x² = 64. Divide by 4 = 16. Subtract 2 → y = 14."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "The cube of 5 is:",
+            "choices": ["125", "25", "15", "50"],
+            "answer": "125",
+            "explanation": "The cube of a number is n³. 5³ = 5 × 5 × 5 = 125."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "2.5 × 33 =",
+            "choices": ["22.5", "75.0", "67.5", "675.0"],
+            "answer": "82.5",
+            "explanation": "Multiply directly: 2.5 × 33 = 82.5. (Note: the provided answer list had 67.5, but correct is 82.5)."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "The fourth root of 16 is:",
+            "choices": ["4", "1", "3", "2"],
+            "answer": "2",
+            "explanation": "The fourth root means the number that multiplied by itself four times equals 16. 2⁴ = 16."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "What's the equation of a line that passes through points (0, -1) and (2, 3)?",
+            "choices": ["y = 2x − 1", "y = 2x + 1", "x = 2y − 1", "x = 2y + 1"],
+            "answer": "y = 2x − 1",
+            "explanation": "Slope = (3 − (−1)) ÷ (2 − 0) = 4 ÷ 2 = 2. Equation: y = 2x − 1."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "(12 yards + 14 feet) ÷ 5 =",
+            "choices": ["12 feet", "51/5 feet", "10 feet", "21/2 yards"],
+            "answer": "10 feet",
+            "explanation": "Convert 12 yards to feet: 12 × 3 = 36 ft. Add 14 ft = 50 ft. Divide by 5 = 10 ft."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "x³ × x⁴ =",
+            "choices": ["x¹²", "2x⁷", "2x¹²", "x⁷"],
+            "answer": "x⁷",
+            "explanation": "When multiplying powers with the same base, add exponents: 3 + 4 = 7."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "(x + 4)(x + 2) =",
+            "choices": ["x² + 6x + 6", "x² + 8x + 8", "x² + 8x + 6", "x² + 6x + 8"],
+            "answer": "x² + 6x + 8",
+            "explanation": "Expand: x² + 2x + 4x + 8 = x² + 6x + 8."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "Which of the following is a prime number?",
+            "choices": ["27", "11", "8", "4"],
+            "answer": "11",
+            "explanation": "11 is prime because it has only two factors: 1 and 11."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "What's the mode of the following series: 4, 4, 8, 8, 8, 10, 10, 12, 12?",
+            "choices": ["9", "8", "11", "10"],
+            "answer": "8",
+            "explanation": "Mode is the most frequent value. 8 appears three times, more than any other."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "If a = 4, then a³ ÷ a =",
+            "choices": ["4", "12", "64", "16"],
+            "answer": "16",
+            "explanation": "a³ ÷ a = a². 4² = 16."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "Solve: 5!",
+            "choices": ["25", "125", "120", "15"],
+            "answer": "120",
+            "explanation": "Factorial means product of all integers up to n. 5! = 5 × 4 × 3 × 2 × 1 = 120."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "If (5 + 1)(6 ÷ 3)(8 − 5) = (3 + 3)x, then x =",
+            "choices": ["12", "3", "4", "6"],
+            "answer": "6",
+            "explanation": "Left side = 6 × 2 × 3 = 36. Right side = 6x. So 6x = 36 → x = 6."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "√49 × √64 =",
+            "choices": ["56", "15", "42", "3136"],
+            "answer": "56",
+            "explanation": "√49 = 7, √64 = 8. Multiply: 7 × 8 = 56."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "Which of the following fractions is the largest?",
+            "choices": ["2/5", "3/8", "7/10", "13/16"],
+            "answer": "13/16",
+            "explanation": "Convert to decimals: 2/5 = 0.4, 3/8 = 0.375, 7/10 = 0.7, 13/16 = 0.8125. Largest = 13/16."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "If 2 + x ≥ 4, then x ≥",
+            "choices": ["6", "2", "4", "1/2"],
+            "answer": "2",
+            "explanation": "Subtract 2 from both sides: x ≥ 2."
+          },
+          {
+            "category": "Mathematics Knowledge",
+            "question": "If a circle has a radius of 12 feet, what's its circumference most nearly?",
+            "choices": ["24 feet", "72 feet", "75 feet", "36 feet"],
+            "answer": "75 feet",
+            "explanation": "Circumference = 2πr = 2 × 3.14 × 12 ≈ 75 feet."
+          },
+          {
+            "category": "General Science",
+            "question": "Which of these reduces friction?",
+            "choices": ["car brakes", "tire tread", "ball bearings", "sandpaper"],
+            "answer": "ball bearings",
+            "explanation": "Ball bearings reduce friction by allowing surfaces to roll over each other instead of sliding."
+          },
+          {
+            "category": "General Science",
+            "question": "If you place bean seeds between moist paper towels and watch the stem leaves appear, you will see a demonstration of:",
+            "choices": ["transpiration", "germination", "fertilization", "pollination"],
+            "answer": "germination",
+            "explanation": "Germination is the process by which a seed develops into a new plant."
+          },
+          {
+            "category": "General Science",
+            "question": "Any astronomical body that revolves around a larger body is called:",
+            "choices": ["a nova", "a comet", "a satellite", "an asteroid", "a meteoroid"],
+            "answer": "a satellite",
+            "explanation": "A satellite is any body that orbits around a larger body, such as the Moon around Earth."
+          },
+          {
+            "category": "General Science",
+            "question": "In chemistry, to be classified as an organic substance, a substance must contain:",
+            "choices": ["sugar molecules", "sodium atoms", "carbon atoms", "water molecules"],
+            "answer": "carbon atoms",
+            "explanation": "Organic compounds are defined by the presence of carbon atoms bonded with hydrogen and other elements."
+          },
+          {
+            "category": "General Science",
+            "question": "Which element does NOT contain any neutrons?",
+            "choices": ["iron", "carbon", "oxygen", "hydrogen"],
+            "answer": "hydrogen",
+            "explanation": "The most common isotope of hydrogen has one proton and no neutrons."
+          },
+          {
+            "category": "General Science",
+            "question": "Regeneration in man is limited to:",
+            "choices": ["reproduction", "fertilization", "experimentation", "healing of wounds"],
+            "answer": "healing of wounds",
+            "explanation": "Humans can regenerate tissue to heal wounds, but not entire organs or limbs."
+          },
+          {
+            "category": "General Science",
+            "question": "How many atoms are in a single molecule of water (H2O)?",
+            "choices": ["1", "2", "3", "4"],
+            "answer": "3",
+            "explanation": "Water molecules consist of 2 hydrogen atoms and 1 oxygen atom, totaling 3 atoms."
+          },
+          {
+            "category": "General Science",
+            "question": "Which of the following is a renewable resource?",
+            "choices": ["copper", "aluminum", "peanut oil", "natural gas"],
+            "answer": "peanut oil",
+            "explanation": "Peanut oil is renewable because it can be replenished through agriculture."
+          },
+          {
+            "category": "General Science",
+            "question": "When scientists measure a liquid's resistance to flow, they are measuring the liquid's:",
+            "choices": ["density", "solubility", "viscosity", "permeability"],
+            "answer": "viscosity",
+            "explanation": "Viscosity is the measure of a fluid's resistance to flow."
+          },
+          {
+            "category": "General Science",
+            "question": "The chemical formula of a compound describes the elements the compound contains and the:",
+            "choices": ["pH of the compound", "conduction of the compound", "ratio of elements in the compound", "ratio of neutrons to protons in each element"],
+            "answer": "ratio of elements in the compound",
+            "explanation": "Chemical formulas show the types and ratios of atoms in a compound."
+          },
+          {
+            "category": "General Science",
+            "question": "The filament in an electric light bulb is made from:",
+            "choices": ["platinum", "fiberglass", "aluminum", "tungsten"],
+            "answer": "tungsten",
+            "explanation": "Tungsten is used because it has a very high melting point and resists burning out."
+          },
+          {
+            "category": "General Science",
+            "question": "When sodium atoms form sodium ions, they:",
+            "choices": ["share protons", "gain neutrons", "lose electrons", "share photons"],
+            "answer": "lose electrons",
+            "explanation": "Sodium atoms lose one electron to form positively charged sodium ions (Na⁺)."
+          },
+          {
+            "category": "General Science",
+            "question": "A perpetual-motion machine can never be built because it is not possible to eliminate:",
+            "choices": ["momentum", "inertia", "elasticity", "friction"],
+            "answer": "friction",
+            "explanation": "Friction always causes energy loss, preventing perpetual motion."
+          },
+          {
+            "category": "General Science",
+            "question": "A human skin cell divides by:",
+            "choices": ["osmosis", "mitosis", "glycolysis", "hydrolysis"],
+            "answer": "mitosis",
+            "explanation": "Mitosis is the process by which somatic cells divide to produce identical daughter cells."
+          },
+          {
+            "category": "General Science",
+            "question": "What are the two main gases that make up stars?",
+            "choices": ["hydrogen and helium", "chlorine and fluorine", "nitrogen and hydrogen", "oxygen and carbon dioxide"],
+            "answer": "hydrogen and helium",
+            "explanation": "Stars are primarily composed of hydrogen and helium, which fuel nuclear fusion."
+          },
+          {
+            "category": "General Science",
+            "question": "What is the symbol for the hydroxyl ion?",
+            "choices": ["H-", "OH-", "H2O", "H3O"],
+            "answer": "OH-",
+            "explanation": "The hydroxyl ion is represented as OH⁻."
+          },
+          {
+            "category": "General Science",
+            "question": "The tympanic membranes are also known as the:",
+            "choices": ["eye lids", "sinuses", "ear drums", "vocal cords"],
+            "answer": "ear drums",
+            "explanation": "The tympanic membrane is the eardrum, which vibrates in response to sound waves."
+          },
+          {
+            "category": "General Science",
+            "question": "Choking is prevented by the:",
+            "choices": ["diaphragm remaining down", "vibration of the vocal cords", "esophagus moving the food", "epiglottis covering the voice box"],
+            "answer": "epiglottis covering the voice box",
+            "explanation": "The epiglottis prevents food from entering the trachea by covering the voice box during swallowing."
+          },
+          {
+            "category": "General Science",
+            "question": "Which of the following actions produce a chemical change?",
+            "choices": ["boiling water", "burning the rice", "adding salt to the hot water", "melting butter on cooked rice"],
+            "answer": "burning the rice",
+            "explanation": "Burning rice changes its chemical composition, unlike boiling or melting which are physical changes."
+          },
+          {
+            "category": "General Science",
+            "question": "Which of the following is a non-renewable resource?",
+            "choices": ["wood", "water", "copper", "biomass"],
+            "answer": "copper",
+            "explanation": "Copper is a non-renewable resource because it cannot be replenished naturally on a human timescale."
+          },
+          {
+            "category": "General Science",
+            "question": "What do a hydrogen molecule and an oxygen molecule have in common?",
+            "choices": ["atomic structure", "the charge on each electron", "the number of protons", "the size"],
+            "answer": "the charge on each electron",
+            "explanation": "All atoms and molecules have electrons with the same fundamental charge, regardless of type."
+          },
+          {
+            "category": "General Science",
+            "question": "A genus classification contains several related:",
+            "choices": ["species", "families", "orders", "phyla"],
+            "answer": "species",
+            "explanation": "A genus is a taxonomic rank that groups together closely related species."
+          },
+          {
+            "category": "General Science",
+            "question": "Particles that orbit the nucleus of an atom are:",
+            "choices": ["anions", "electrons", "positrons", "photons"],
+            "answer": "electrons",
+            "explanation": "Electrons orbit the nucleus in energy levels or shells."
+          },
+          {
+            "category": "General Science",
+            "question": "As a human breathes, air is first warmed and filtered in the:",
+            "choices": ["trachea", "pharynx", "oral cavity", "nasal cavity"],
+            "answer": "nasal cavity",
+            "explanation": "The nasal cavity warms, moistens, and filters air before it enters the lungs."
+          },
+          {
+            "category": "General Science",
+            "question": "In the food chain dandelion → rabbit → fox → coyote, which is the tertiary consumer?",
+            "choices": ["dandelion", "rabbit", "fox", "coyote"],
+            "answer": "coyote",
+            "explanation": "The coyote is the tertiary consumer, feeding on the fox which is the secondary consumer."
+          },
+          {
+            "category": "General Science",
+            "question": "Homo sapiens is the scientific name for:",
+            "choices": ["the species that preceded human beings", "primates", "human beings", "mammals"],
+            "answer": "human beings",
+            "explanation": "Homo sapiens is the binomial nomenclature for modern humans."
+          },
+          {
+            "category": "General Science",
+            "question": "The process by which a solid becomes a gas is known as:",
+            "choices": ["boiling", "sublimation", "melting", "diffusion"],
+            "answer": "sublimation",
+            "explanation": "Sublimation is the direct transition from solid to gas without becoming liquid."
+          },
+          {
+            "category": "General Science",
+            "question": "The gravitational force the moon exerts on Earth is:",
+            "choices": [
+              "less than one half as much as that exerted by the earth on the moon",
+              "one half as much as that exerted by the earth on moon",
+              "the same as that exerted by the earth on the moon",
+              "more than that exerted by the earth on the moon"
+            ],
+            "answer": "the same as that exerted by the earth on the moon",
+            "explanation": "Newton’s third law states forces are equal and opposite; Earth and Moon exert equal gravitational forces."
+          },
+          {
+            "category": "General Science",
+            "question": "Fungi are organisms that break down dead matter and return the organic material back into the environment for reuse. They are examples of:",
+            "choices": ["producers", "decomposers", "consumers", "mutualist"],
+            "answer": "decomposers",
+            "explanation": "Fungi decompose organic matter, recycling nutrients back into ecosystems."
+          },
+          {
+            "category": "General Science",
+            "question": "What is the freezing point of water in Kelvin?",
+            "choices": ["-273 K", "0 K", "100 K", "273 K"],
+            "answer": "273 K",
+            "explanation": "Water freezes at 0°C, which equals 273 K."
+          },
+          {
+            "category": "General Science",
+            "question": "Tough elastic tissues in the joints that connect bones to bones are called:",
+            "choices": ["ligaments", "tendons", "cartilage", "muscles"],
+            "answer": "ligaments",
+            "explanation": "Ligaments connect bones to bones, while tendons connect muscles to bones."
+          },
+          {
+            "category": "General Science",
+            "question": "Stress, a poor diet, cigarette smoking, and hereditary factors all contribute to individuals developing:",
+            "choices": ["diarrhea", "high blood pressure", "gall stones", "anemia"],
+            "answer": "high blood pressure",
+            "explanation": "These lifestyle and genetic factors increase risk of hypertension."
+          },
+          {
+            "category": "General Science",
+            "question": "Which clouds are thin and wispy and occur high in the atmosphere?",
+            "choices": ["cirrus", "cumulus", "stratus", "stratocumulus"],
+            "answer": "cirrus",
+            "explanation": "Cirrus clouds are high-altitude, thin, and wispy formations."
+          },
+          {
+            "category": "General Science",
+            "question": "Fossils are most likely to be found in which of the following types of rock?",
+            "choices": ["igneous", "metamorphic", "sedimentary", "volcanic"],
+            "answer": "sedimentary",
+            "explanation": "Sedimentary rocks form from layers of deposits where fossils are preserved."
+          },
+          {
+            "category": "General Science",
+            "question": "Animals that consume only plants are called:",
+            "choices": ["saprophytes", "herbivores", "carnivores", "omnivores"],
+            "answer": "herbivores",
+            "explanation": "Herbivores feed exclusively on plants."
+          },
+          {
+            "category": "General Science",
+            "question": "What type of star is the sun?",
+            "choices": ["red dwarf", "blue giant", "white dwarf", "yellow dwarf"],
+            "answer": "yellow dwarf",
+            "explanation": "The Sun is classified as a G-type main-sequence star, commonly called a yellow dwarf."
+          },
+          {
+            "category": "General Science",
+            "question": "Which of the following is a group of organisms of the same species living in the same region?",
+            "choices": ["biome", "ecosystem", "community", "population"],
+            "answer": "population",
+            "explanation": "A population is a group of organisms of the same species in a given area."
+          },
+          {
+            "category": "General Science",
+            "question": "Which one of these planets is NOT an outer planet?",
+            "choices": ["Jupiter", "Saturn", "Uranus", "Earth"],
+            "answer": "Earth",
+            "explanation": "Outer planets are Jupiter, Saturn, Uranus, and Neptune. Earth is an inner planet."
+          },
+          {
+            "category": "General Science",
+            "question": "A boulder that begins to roll down a hill is an example of an energy conversion from:",
+            "choices": ["potential to thermal", "potential to kinetic", "kinetic to thermal", "kinetic to potential"],
+            "answer": "potential to kinetic",
+            "explanation": "Stored potential energy is converted to kinetic energy as the boulder moves."
+          },
+          {
+            "category": "General Science",
+            "question": "The lowest layer of the earth's atmosphere is called the:",
+            "choices": ["ionosphere", "mesosphere", "stratosphere", "troposphere"],
+            "answer": "troposphere",
+            "explanation": "The troposphere is the lowest layer where weather occurs."
+          },
+          {
+            "category": "General Science",
+            "question": "According to the law of conservation of energy:",
+            "choices": [
+              "energy is the capacity to do work",
+              "energy can neither be created or destroyed",
+              "energy is possessed by a moving object",
+              "energy is stored in an object as a result of its position, shape, or state"
+            ],
+            "answer": "energy can neither be created or destroyed",
+            "explanation": "The law states energy can only change forms, not be created or destroyed."
+          },
+          {
+            "category": "General Science",
+            "question": "As an ambulance passes, its pitch seems to change. This perception is best explained by:",
+            "choices": ["convection", "Newton's Third Law", "the Doppler effect", "momentum"],
+            "answer": "the Doppler effect",
+            "explanation": "The Doppler effect explains the change in frequency of sound due to motion of source or observer."
+          },
+          {
+            "category": "General Science",
+            "question": "A concave lens is also known as a:",
+            "choices": ["focal point", "converging lens", "convex lens", "diverging lens"],
+            "answer": "diverging lens",
+            "explanation": "Concave lenses spread light rays apart, so they are called diverging lenses."
+          },
+          {
+            "category": "General Science",
+            "question": "The smallest particle of a covalent compound that can exist in a free state and still retain the characteristics of that compound is a:",
+            "choices": ["proton", "quark", "atom", "molecule"],
+            "answer": "molecule"
+          },
+          {
+            "category": "General Science",
+            "question": "Which of the following is most responsible for oceanic tides?",
+            "choices": [
+              "the orbit of the earth around its own axis",
+              "the magnetic polarity of the earth",
+              "the orbit of the moon around the earth",
+              "the orbit of the earth around the sun"
+            ],
+            "answer": "the orbit of the moon around the earth",
+            "explanation": "Ocean tides are primarily caused by the gravitational pull of the moon on Earth's oceans."
+          },
+          {
+            "category": "General Science",
+            "question": "In the periodic table of elements, the elements in a column are referred to as a:",
+            "choices": ["period", "group", "configuration", "unit"],
+            "answer": "group",
+            "explanation": "Columns in the periodic table are called groups, while rows are called periods."
+          },
+          {
+            "category": "General Science",
+            "question": "In a chemical change the molecules that enter the reaction are called:",
+            "choices": ["reactants", "products", "compound", "elements"],
+            "answer": "reactants",
+            "explanation": "Reactants are the starting substances in a chemical reaction."
+          },
+          {
+            "category": "General Science",
+            "question": "Which of these undergo metamorphosis?",
+            "choices": ["butterfly", "bacteria", "snake", "chicken"],
+            "answer": "butterfly",
+            "explanation": "Butterflies undergo complete metamorphosis from egg to larva to pupa to adult."
+          },
+          {
+            "category": "General Science",
+            "question": "When a lobster grows a claw to replace one that was lost, the process is called:",
+            "choices": ["Regeneration"],
+            "answer": "Regeneration",
+            "explanation": "Regeneration is the biological process of regrowing lost or damaged body parts."
+          },
+          {
+            "category": "General Science",
+            "question": "What is the best explanation of how a smooth round stone became smooth?",
+            "choices": [
+              "Continuous freezing and thawing",
+              "Volcanic Action",
+              "It fell off the side of a cliff",
+              "It was in a stream for a long time"
+            ],
+            "answer": "It was in a stream for a long time",
+            "explanation": "Water flow and abrasion smooth stones over time in streams."
+          },
+          {
+            "category": "General Science",
+            "question": "Which of the following enables the pen to work?",
+            "choices": ["Hydraulic force", "Capillary action", "Centrifugal force", "Vacuum pressure"],
+            "answer": "Capillary action",
+            "explanation": "Ink flows in pens due to capillary action, which moves liquid through narrow spaces."
+          },
+          {
+            "category": "General Science",
+            "question": "The term 'meiosis' is usually associated with:",
+            "choices": ["Digestion", "Respiration", "Reproduction", "Photosynthesis"],
+            "answer": "Reproduction",
+            "explanation": "Meiosis is the cell division process that produces gametes for sexual reproduction."
+          },
+          {
+            "category": "General Science",
+            "question": "By definition, an aquifer is:",
+            "choices": [
+              "A layer of sedimentary rock formed by water deposits",
+              "An ocean floor consisting of unconsolidated sediments and muds",
+              "River bottom made of gravel and sedimentary rock",
+              "Permeable rock that contains or carries water"
+            ],
+            "answer": "Permeable rock that contains or carries water",
+            "explanation": "An aquifer is a water-bearing layer of permeable rock or sediment."
+          },
+          {
+            "category": "General Science",
+            "question": "Which of the following reproduce by spawning?",
+            "choices": ["Butterflies", "Birds", "Bats", "Fish"],
+            "answer": "Fish",
+            "explanation": "Fish reproduce by spawning, releasing eggs and sperm into water."
+          },
+          {
+            "category": "General Science",
+            "question": "Which of the following is the best illustration of centripetal force?",
+            "choices": [
+              "Ice skater spinning on the ice",
+              "Skier zigzagging down a slope",
+              "Bicycle rider coasting down the street"
+            ],
+            "answer": "Ice skater spinning on the ice",
+            "explanation": "Centripetal force keeps objects moving in a circular path, like a skater spinning."
+          },
+          {
+            "category": "General Science",
+            "question": "According to their locations on the Periodic Table, argon (Ar) and neon (Ne) are:",
+            "choices": ["ionic", "radioactive", "liquid metals", "noble gases"],
+            "answer": "noble gases",
+            "explanation": "Argon and neon are noble gases, found in Group 18 of the periodic table."
+          },
+          {
+            "category": "General Science",
+            "question": "To test the effectiveness of plant fertilizer, groups of plants are grown with different types of fertilizer. A control group of plants would:",
+            "choices": [
+              "not be given any fertilizer",
+              "be grown with a mixture of all fertilizers",
+              "not be needed unless the results were unclear",
+              "be grown in a different location from the other groups"
+            ],
+            "answer": "not be given any fertilizer",
+            "explanation": "A control group is left untreated to compare against experimental groups."
+          },
+          {
+            "category": "General Science",
+            "question": "In a balanced aquatic ecosystem, which of the following would have the greatest population?",
+            "choices": ["fish", "crabs", "sharks", "plankton"],
+            "answer": "plankton",
+            "explanation": "Plankton form the base of the aquatic food chain and exist in the largest numbers."
+          },
+          {
+            "category": "General Science",
+            "question": "Using the list, which of the following presents the stages of the water cycle in the correct order? 1. water vapor cools 2. precipitation occurs 3. evaporation occurs 4. condensation occurs 5. sunlight heats pond water",
+            "choices": [
+              "1 => 4 => 2 => 5 => 3",
+              "5 => 2 => 1 => 4 => 3",
+              "1 => 3 => 2 => 4 => 5",
+              "5 => 3 => 1 => 4 => 2"
+            ],
+            "answer": "5 => 3 => 1 => 4 => 2",
+            "explanation": "Sun heats water (5), evaporation occurs (3), vapor cools (1), condensation (4), then precipitation (2)."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "Your heart's mitral valve does an awfully big job. Letting blood from the left atrium of the heart into the left ventricle without losing a drop is one of the toughest tasks in the circulatory system. In fact, if the system was suddenly opened at that point, the force of the valve closing would send blood five feet in the air.\nIn this passage, the author's purpose is to:",
+            "choices": [
+              "describe the circulatory system",
+              "convince readers of the stress on the mitral valve",
+              "inform readers of defects in the mitral valve",
+              "minimize the importance of the mitral valve"
+            ],
+            "answer": "convince readers of the stress on the mitral valve",
+            "explanation": "The passage emphasizes the difficulty and force involved in the mitral valve’s job."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "Riding the mail plane is a low-budget way to visit America's largest national park - Wrangell St. Elias - 13 million acres of scenic beauty. Copper first drew prospectors to this part of Alaska. From 1911 to 1938, the Kennicott mine produced 200 million tons of it. Now a mecca for tourists, the town of Kennicott was abandoned to the ghosts when the copper ran out.\nAccording to the passage, which of the following illustrates the correct sequence of events?",
+            "choices": [
+              "copper drew prospectors, copper ran out, town abandoned, tourist attraction",
+              "copper drew prospectors, tourist attraction, copper ran out, town abandoned",
+              "copper drew prospectors, copper ran out, tourist attraction, town abandoned",
+              "copper drew prospectors, tourist attraction, town abandoned, copper ran out"
+            ],
+            "answer": "copper drew prospectors, copper ran out, town abandoned, tourist attraction",
+            "explanation": "Prospectors came for copper, the mine ran out, the town was abandoned, and later became a tourist site."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "Physicists seek out those features of nature that are simple and universal. The secret of their success is not so much a matter of finding the answers as it is asking the right questions. The trick is keeping the questions simple and sticking to universal phenomena. Simple questions can be answered unambiguously by careful observation of repeated experiments and by logical thinking.\nWhich of the following questions is most clearly an example of the kind discussed in the paragraph?",
+            "choices": [
+              "how fast do stones of a particular size fall?",
+              "why do people enjoy music?",
+              "what is the meaning of life?",
+              "how do governments form?"
+            ],
+            "answer": "how fast do stones of a particular size fall?",
+            "explanation": "The passage emphasizes simple, universal, testable questions answered by observation and logic."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "An allergy is a hypersensitivity to substances that are essentially harmless. For as yet poorly understood reasons, the immune system malfunctions and marshals up an army of antibodies to fight these substances. For many allergies, this malfunction causes a large amount of histamine to flood into the bloodstream. It is the overabundance of histamine that causes allergic symptoms such as headaches, rashes, and sneezing.\nThe passage states all of the following about allergies EXCEPT:",
+            "choices": [
+              "an allergic reaction is the result of a false alarm in the body's immune system",
+              "allergies involve histamine flooding the bloodstream",
+              "allergies are hypersensitivity to harmless substances",
+              "allergic symptoms include headaches, rashes, and sneezing"
+            ],
+            "answer": "an allergic reaction is the result of a false alarm in the body's immune system",
+            "explanation": "The passage describes allergies as hypersensitivity and histamine release, but does not use the phrase 'false alarm'."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "A period of time is usually measured by comparing it with another period of time. For example, a year on Mercury is equal to 88 Earth days. A year on Uranus is approximately 348 Mercury years.\nAccording to the passage, the way time is usually measured shows that time is:",
+            "choices": ["absolute", "relative", "fixed", "constant"],
+            "answer": "relative",
+            "explanation": "Time is measured by comparison to other periods, showing its relativity."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "From Texas to Southern CA, low-water maintenance landscaping and the popularity of desert themes have made cactus very valuable. Considering the fact that cactus have extremely slow growth and reproduction rates, rustlers anticipate significant profits of this shallow rooted succulent. Removing cactus from state-owned land, however, is a felony, and if state lines are crossed, the 1900 Lacey Act makes this same crime a federal offense.\nFrom the passage, determine the sequence of events:",
+            "choices": [
+              "cactus popularity, transport of stolen cactus, cactus theft",
+              "cactus popularity, cactus theft, transport of stolen cactus",
+              "cactus theft, cactus popularity, transport of stolen cactus",
+              "transport of stolen cactus, cactus popularity, cactus theft"
+            ],
+            "answer": "cactus popularity, transport of stolen cactus, cactus theft",
+            "explanation": "Popularity led to theft, and crossing state lines made transport a federal crime."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "Weather radar is a great help to pilots in detecting thunderstorms. However, pilots must be aware that radar does not reliably detect hail....\nAccording to the paragraph, weather radar does not reliably detect hail because of:",
+            "choices": [
+              "hail is too small",
+              "hail is transparent",
+              "faulty pulse transmission by radar",
+              "hail melts before detection"
+            ],
+            "answer": "faulty pulse transmission by radar",
+            "explanation": "The passage states radar pulse transmission issues make hail detection unreliable."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "According to Mark Twain, October is a particularly dangerous month to speculate in stocks....\nWhat was Mark Twain's point?",
+            "choices": [
+              "certain times of the year better than others for buying stocks",
+              "October is an especially bad month for speculating stocks",
+              "speculating in stocks is not a safe investment for your money",
+              "it's always a good time to make a sound investment in stocks"
+            ],
+            "answer": "speculating in stocks is not a safe investment for your money",
+            "explanation": "Twain humorously suggested speculation is risky regardless of the month."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "The woman's flying training detachment was the brainchild of Jacqueline Cochran, the famous flyer. Because of the overwhelming demand for qualified men to fly in combat during World War II, she was able to persuade the army to train women pilots to ferry military aircraft from manufacturers to embarkation points for later shipment overseas.\nThe author implies that the primary motivation for establishing a training program for women pilots during World War II was:",
+            "choices": [
+              "army’s wish to utilize women’s ability",
+              "unavailability of qualified men pilots",
+              "fame of flyer Jacqueline Cochran",
+              "existence of the women’s flying training detachment"
+            ],
+            "answer": "unavailability of qualified men pilots",
+            "explanation": "The program was created because men were needed for combat, so women filled ferrying roles."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "The lens of the eyes focus light rays as they enter the eye. Muscles around the lens react to light and change the shape of the lens by expanding or contracting. Certain diseases or injury to the lens of the eye can result in blurry vision.\nAccording to the paragraph the lens of the eye is used to:",
+            "choices": ["focus light", "filter light", "absorb light", "reflect light"],
+            "answer": "focus light",
+            "explanation": "The lens focuses light rays onto the retina."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "An analysis of the mandatory oil quota program shows that separate quotas were established for crude oil and for petroleum products. Petroleum products were divided into light products (mostly gasoline, jet fuel, and distillate) and heavy or residual fuel oil products. The quota for crude oil imports was set at approximately ten percent of crude oil consumption.\nThe passage implies which of the following about the oil quota program?",
+            "choices": [
+              "Jet fuel was included in the crude oil quota",
+              "Approximately ninety percent of crude oil needs were to be met domestically",
+              "The quota for petroleum products was the same as for crude oil products",
+              "The quota for residual fuel oil products was the same as for crude oil products"
+            ],
+            "answer": "Approximately ninety percent of crude oil needs were to be met domestically",
+            "explanation": "The quota limited crude oil imports to 10%, meaning 90% was domestic."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "Physical sound energy is transmitted through the external ear (the pinna) and the middle ear to the inner ear, where it creates pressure waves in the fluid of the cochlea. There, hairs on the organ of Corti are moved by the pressure waves. The movement of the hairs starts the process by which nerve impulses are generated.\nWhere is the organ of Corti located?",
+            "choices": [
+              "between the external ear and the middle ear",
+              "between the middle ear and the inner ear",
+              "in the inner ear",
+              "in the middle ear"
+            ],
+            "answer": "in the inner ear",
+            "explanation": "The organ of Corti is located in the cochlea of the inner ear."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "There is a tremendous difference between 'seeing' and orienting yourself. Mostly we orient ourselves. We walk through a door without noticing it; we enter a room and know where we are without being conscious of the color or texture of the walls. But it is consciousness of visual detail that constitutes seeing.\nWhich of the following is the best example of seeing as described in the passage?",
+            "choices": [
+              "She was surprised at the skinny black shell and odd limbs of the beetle.",
+              "Walking through a door without noticing it.",
+              "Entering a room and knowing where you are.",
+              "Recognizing the location without noticing wall color."
+            ],
+            "answer": "She was surprised at the skinny black shell and odd limbs of the beetle.",
+            "explanation": "The passage defines 'seeing' as conscious attention to visual detail."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "There is a tremendous difference between 'seeing' and orienting yourself. Mostly we orient ourselves. We walk through a door without noticing it; we enter a room and know where we are without being conscious of the color or texture of the walls. But it is consciousness of visual detail that constitutes seeing.\nWhich of the following is the best example of seeing as described in the passage?",
+            "choices": [
+              "She was surprised at the skinny black shell and odd limbs of the beetle.",
+              "Walking through a door without noticing it.",
+              "Entering a room and knowing where you are.",
+              "Recognizing the location without noticing wall color."
+            ],
+            "answer": "She was surprised at the skinny black shell and odd limbs of the beetle.",
+            "explanation": "The passage defines 'seeing' as conscious attention to visual detail."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "Roosevelt made conscious use of the media almost from the moment he entered the White House. His press conferences served to educate newspaper writers, and through them the nation, about the complex, novel measures he was advocating.\nIt can be inferred from the passage that Roosevelt:",
+            "choices": [
+              "Improved the quality of journalism in the United States.",
+              "Educated the nation about the press.",
+              "Did not use the media to influence public opinion.",
+              "Was a president who recognized the power of the press"
+            ],
+            "answer": "Was a president who recognized the power of the press",
+            "explanation": "Roosevelt used press conferences to influence public opinion and educate the nation."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "The fable always explicitly states a moral truth. The fairy tale, in contrast, leaves all decisions about meaning up to us. Whether we wish to make any application to our life or simply to enjoy the fantastic events it tells us about.\nAccording to the passage, a fable differs from a fairy tale in that a fable has:",
+            "choices": ["Happy ending", "An ethical meaning", "A complicated plot", "Unusual events taking place"],
+            "answer": "An ethical meaning",
+            "explanation": "Fables explicitly state a moral truth, unlike fairy tales."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "Enjoying a leisurely vacation can be a tough assignment for people who thrive on an upbeat pace in their daily routines. For many, it just is not possible to switch gears into neutral and lie by a pool for a week or more; they need excitement.\nThe author's main point is that:",
+            "choices": [
+              "Active people should take leisurely vacation.",
+              "An exciting vacation should last a week or more.",
+              "Lying by a pool can be enjoyable vacation.",
+              "Inactive vacations are not for everyone."
+            ],
+            "answer": "Inactive vacations are not for everyone",
+            "explanation": "The passage emphasizes that people with active lifestyles may not enjoy passive vacations."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "When we think of security for the home, some of us think of devices that will physically hinder another person. Researchers have found that some simple, everyday, fairly inexpensive objects can be as effective as much as the expensive objects.\nWhich of the following sentences would most likely come next in the paragraph?",
+            "choices": [
+              "For example, leaving the radio on during the day can make a home sound occupied.",
+              "For example, leaving note on doors or windows is not a good idea.",
+              "For example, equipping the home with costly design system is a good safeguard.",
+              "For example, doors should be only opened after a visitor has been identified."
+            ],
+            "answer": "For example, leaving the radio on during the day can make a home sound occupied.",
+            "explanation": "The passage suggests inexpensive, everyday measures can be effective, such as leaving a radio on."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "In the beginning, there is always the crunch. Bite into a red apple or green one, a red one streaked with yellow, a yellow with a rosy blush, a round or oblong one, baseball size or softball size, and before the flavor, before even the tang of acid, the crunch. At least, there had better be.\nInferred from the passage, the author considered the most important characteristic of a good apple to be:",
+            "choices": ["Color", "Crispness", "Shape", "Size"],
+            "answer": "Crispness",
+            "explanation": "The passage emphasizes the crunch as the defining quality of a good apple."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "Latex (water-based) house paints have several advantages over oil-based paints. Latex dries quickly, can be cleansed up with water, doesn't peel when applied to damp wood. But the reduction or elimination of mercury compounds in latex paints created problems with mildew and storage stability.\nWhat does this paragraph imply about oil-based paints?",
+            "choices": [
+              "They peel when applied to damp wood",
+              "They have problems with mildew",
+              "They don't remain stable in storage",
+              "They dry more quickly than latex paints"
+            ],
+            "answer": "They have problems with mildew",
+            "explanation": "The passage implies that oil-based paints avoided mildew problems that arose with mercury-free latex paints."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "If a label says 'one size fits all,' there's one thing you can count on: that one size fits no one. Store managers love the idea because inventory is simplified. Manufacturers like it because it makes production easier and profit margins higher. And some computer networks prefer it because it saves costly computer time and memory space. It saves time and money for them, not for you.\nAccording to the paragraph, the production of 'one size fits all' merchandise benefits all of the following EXCEPT:",
+            "choices": ["the consumers", "store managers", "manufacturers", "computer networks"],
+            "answer": "the consumers",
+            "explanation": "The passage states that 'one size fits all' benefits businesses and networks, but not consumers."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "We are sometimes led to believe that there is very little a man or one woman can do to change the ills of the world. If we look at history, we can see that it is not so. A woman reclaimed a territory of France. A man proclaimed that all men are created equal.\nWhich of the following is the main point of the passage?",
+            "choices": [
+              "History can only be changed by one man or woman.",
+              "History is constantly changing.",
+              "It is difficult to change history.",
+              "An individual has the power to change history."
+            ],
+            "answer": "An individual has the power to change history",
+            "explanation": "The passage emphasizes that individuals can make significant changes in history."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "Flowers should be cut from a garden early in the morning or late in the afternoon. It's better to cut them with a sharp knife or a razor rather than shears because shears compress the stem tissue. The stem of cut flowers should be put in the water immediately. Flowers from wet plants with mildew should never be cut because disease might be transmitted from one plant to another.\nAccording to this passage you should:",
+            "choices": [
+              "Cut flowers with a sharp knife or razor",
+              "Cut flowers with shears",
+              "Cut flowers only in the evening",
+              "Cut flowers from wet plants"
+            ],
+            "answer": "Cut flowers with a sharp knife or razor",
+            "explanation": "The passage advises using a sharp knife or razor to avoid compressing stem tissue."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "Nonviolent resistance is the willingness to accept suffering without retaliation. The resister is willing to accept violence if necessary, but never inflict it. Suffering has a powerful educational and transforming influence on human beings.\nThe author implies all of the following about nonviolent resistance EXCEPT?",
+            "choices": [
+              "the suffering of a nonviolent resister has altering effects",
+              "nonviolent resistors do not commit violent acts",
+              "persons who practice nonviolent resistance do not retaliate against violence",
+              "it is difficult to find persons who are willing to practice nonviolent resistance"
+            ],
+            "answer": "it is difficult to find persons who are willing to practice nonviolent resistance",
+            "explanation": "The passage describes suffering as transformative and emphasizes nonviolent behavior, but does not mention difficulty in finding practitioners."
+          },
+          {
+            "category": "Paragraph Comprehension",
+            "question": "The world decorates its serious artists with Laurel, and its Wags with brussel sprouts. Writers know this, and those who take their literary selves with great seriousness are at considerable pains never to associate their names with anything funny, flippant, nonsensical, or 'light'. Many poets writing today sign their real names to their serious verse and pseudonyms to their comical verse. It is a wise precaution.\nThe passage is primarily concerned with the?",
+            "choices": [
+              "Lack of respect given to humorous writing",
+              "Popularity of humorous writing",
+              "Difficulty of writing serious verse",
+              "Importance of pseudonyms in literature"
+            ],
+            "answer": "Lack of respect given to humorous writing",
+            "explanation": "The passage highlights how humorous writing is undervalued compared to serious writing, leading poets to use pseudonyms."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "NOBLE most nearly means:",
+            "choices": ["comely", "loose", "aristocratic", "lackadaisical"],
+            "answer": "aristocratic",
+            "explanation": "Noble refers to high moral qualities or aristocratic status."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "GOAD most nearly means:",
+            "choices": ["listen", "provoke", "pacify", "ignore"],
+            "answer": "provoke",
+            "explanation": "To goad means to provoke or urge someone into action."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Teenagers at the mall love to roam in a HERD.",
+            "choices": ["jacket", "line", "pack", "ratio"],
+            "answer": "pack",
+            "explanation": "Herd refers to a group or pack moving together."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Panicking in an emergency is not a VIABLE response for an EMT.",
+            "choices": ["total", "collective", "lucid", "workable"],
+            "answer": "workable",
+            "explanation": "Viable means capable of working successfully or being effective."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "JUDICIOUS most nearly means:",
+            "choices": ["accessible", "cold", "wise", "talkative"],
+            "answer": "wise",
+            "explanation": "Judicious means showing good judgment or wisdom."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "HESITATING in a time of crisis can often lead to failure.",
+            "choices": ["broadening", "creating", "leaving", "pausing"],
+            "answer": "pausing",
+            "explanation": "Hesitating means pausing or delaying before taking action."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "John initially disagreed with Megan, but then he had to CONCEDE her point about the budget.",
+            "choices": ["argue", "understand", "counter", "admit"],
+            "answer": "admit",
+            "explanation": "Concede means to admit or acknowledge something after resistance."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "BROACH most nearly means:",
+            "choices": ["poke", "introduce", "sermonize", "cook"],
+            "answer": "introduce",
+            "explanation": "To broach means to bring up or introduce a topic for discussion."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Joanna FEIGNED happiness at the wedding.",
+            "choices": ["created", "passed out", "pretended", "concealed"],
+            "answer": "pretended",
+            "explanation": "Feigned means pretended or faked."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Many PITFALLS await the inexperienced climber.",
+            "choices": ["joys", "traps", "ropes", "talents"],
+            "answer": "traps",
+            "explanation": "Pitfalls are hidden traps or dangers."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "She can take SOLACE in the fact that it couldn't get much worse.",
+            "choices": ["protection", "comfort", "glee", "depth"],
+            "answer": "comfort",
+            "explanation": "Solace means comfort or consolation in distress."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "TEMPO most nearly means:",
+            "choices": ["heartbeat", "safety", "modernity", "speed"],
+            "answer": "speed",
+            "explanation": "Tempo refers to the speed or pace of music or activity."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "No coach can handle DISSENT from his players for long.",
+            "choices": ["discussion", "laughter", "laziness", "insubordination"],
+            "answer": "insubordination",
+            "explanation": "Dissent means disagreement or refusal to conform, often insubordination."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "It will take a CONSENSUS to get this measure passed.",
+            "choices": ["agreement", "discussion", "infighting", "reprimand"],
+            "answer": "agreement",
+            "explanation": "Consensus means general agreement among a group."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "It left a glaring BLEMISH on his permanent record.",
+            "choices": ["impact", "defect", "commendation", "compliment"],
+            "answer": "defect",
+            "explanation": "Blemish means a flaw or defect."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "APATHY most nearly means:",
+            "choices": ["greatness", "laziness", "disinterest", "boredom"],
+            "answer": "disinterest",
+            "explanation": "Apathy means lack of interest, enthusiasm, or concern."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "The least EFFECTIVE way of dealing with children is yelling.",
+            "choices": ["tantalizing", "creative", "useful", "positive"],
+            "answer": "useful",
+            "explanation": "Effective means producing the intended result or being useful."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "QUANTIFIABLE most nearly means:",
+            "choices": ["laughable", "standard", "countable", "breakable"],
+            "answer": "countable",
+            "explanation": "Quantifiable means able to be measured or counted."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Most of our employees respond well to CONSTRUCTIVE criticism.",
+            "choices": ["damaging", "productive", "gentle", "flattering"],
+            "answer": "productive",
+            "explanation": "Constructive means helpful or productive, intended to improve rather than harm."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "TAUNT most nearly means:",
+            "choices": ["grade", "relate", "ridicule", "party"],
+            "answer": "ridicule",
+            "explanation": "To taunt means to mock or ridicule someone."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Basing his opinions on HEARSAY doomed the case.",
+            "choices": ["rumor", "samples", "truth", "belief"],
+            "answer": "rumor",
+            "explanation": "Hearsay refers to information based on rumor or secondhand accounts."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "BRAGGART most nearly means:",
+            "choices": ["clown", "leader", "boaster", "deputy"],
+            "answer": "boaster",
+            "explanation": "A braggart is someone who boasts or brags excessively."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "The police felt it was best to be CAUTIOUS when approaching the house.",
+            "choices": ["excited", "apathetic", "dodgy", "careful"],
+            "answer": "careful",
+            "explanation": "Cautious means careful and avoiding unnecessary risks."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "It seems that loud people tend to GRAVITATE toward other loud people.",
+            "choices": ["be drawn", "be hostile", "be inquisitive", "be competitive"],
+            "answer": "be drawn",
+            "explanation": "Gravitate means to be drawn or attracted to something."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "PREREQUISITE most nearly means:",
+            "choices": ["requirement", "evaluation", "glee", "good taste"],
+            "answer": "requirement",
+            "explanation": "A prerequisite is something required beforehand."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "LOGICAL most nearly means:",
+            "choices": ["cognizant", "easy", "rowdy", "sensible"],
+            "answer": "sensible",
+            "explanation": "Logical means sensible or reasonable."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Far be it from me to PRESCRIBE how to raise one's own children.",
+            "choices": ["predict", "dictate", "judge", "decide"],
+            "answer": "dictate",
+            "explanation": "Prescribe means to recommend or dictate a course of action."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Duplicating steps is far too REDUNDANT at this late stage.",
+            "choices": ["repetitive", "upsetting", "colorful", "wishy-washly"],
+            "answer": "repetitive",
+            "explanation": "Redundant means repetitive or unnecessary."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Her point of view didn't RESONATE with everyone on the committee.",
+            "choices": ["create irritation", "display clarity", "evoke agreement", "generate discussion"],
+            "answer": "evoke agreement",
+            "explanation": "Resonate means to evoke agreement or strike a chord with someone."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "His ROGUE attitude didn't fit the 'team' concept.",
+            "choices": ["aggressive", "sad", "rebellious", "low-brow"],
+            "answer": "rebellious",
+            "explanation": "Rogue means rebellious or behaving outside accepted norms."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "ROUT most nearly means:",
+            "choices": ["careful", "defeat", "blatant", "open"],
+            "answer": "defeat",
+            "explanation": "Rout means a decisive defeat."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Even the most RUDIMENTARY details are crucial to understanding this problem.",
+            "choices": ["basic", "ecstatic", "illogical", "fancy"],
+            "answer": "basic",
+            "explanation": "Rudimentary means basic or elementary."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "The president PROCLAIMED it a national holiday.",
+            "choices": ["suggested", "renamed", "announced", "unmade"],
+            "answer": "announced",
+            "explanation": "Proclaimed means announced publicly and officially."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Tourists always fall for that RUSE.",
+            "choices": ["trick", "display", "itinerary", "back talk"],
+            "answer": "trick",
+            "explanation": "Ruse means a trick or deception."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "LONGEVITY most nearly means:",
+            "choices": ["training", "duration", "girth", "lifestyle"],
+            "answer": "duration",
+            "explanation": "Longevity refers to duration or length of life."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "INFINITE most nearly means:",
+            "choices": ["costly", "unending", "babyish", "daily"],
+            "answer": "unending",
+            "explanation": "Infinite means limitless or unending."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "The handwriting was nearly ILLEGIBLE.",
+            "choices": ["unreadable", "unethical", "creative", "dangerous"],
+            "answer": "unreadable",
+            "explanation": "Illegible means unreadable or difficult to decipher."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "The way they SQUANDERED the money was shameful.",
+            "choices": ["gathered", "stole", "wasted", "owned"],
+            "answer": "wasted",
+            "explanation": "Squandered means wasted recklessly."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "MUTABLE most nearly means:",
+            "choices": ["changeable", "silent", "big-hearted", "calm"],
+            "answer": "changeable",
+            "explanation": "Mutable means changeable or subject to alteration."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "ENNUI most nearly means:",
+            "choices": ["patient", "gloating", "boredom", "tasteful"],
+            "answer": "boredom",
+            "explanation": "Ennui means boredom or dissatisfaction from lack of excitement."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "He was UNDETERRED in his quest to find her.",
+            "choices": ["surprised", "persistent", "careless", "brazen"],
+            "answer": "persistent",
+            "explanation": "Undeterred means persistent despite obstacles."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "A STURDY home can withstand nearly any disaster.",
+            "choices": ["huge", "strong", "cold", "cautious"],
+            "answer": "strong",
+            "explanation": "Sturdy means strong and durable."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "STUNTED most nearly means:",
+            "choices": ["halted", "frightened", "aged", "overstate"],
+            "answer": "halted",
+            "explanation": "Stunted means halted or prevented from growing properly."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "IMPOSED most nearly means:",
+            "choices": ["create", "force", "damage", "trade"],
+            "answer": "force",
+            "explanation": "Imposed means forced or applied by authority."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "The FRUGAL man was always reluctant to spend money.",
+            "choices": ["fearful", "thrifty", "imprudent", "lavish"],
+            "answer": "thrifty",
+            "explanation": "Frugal means thrifty or economical with money."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "She displayed FORTITUDE in finishing the race despite the pain in her foot.",
+            "choices": ["speed", "cheerfulness", "courage", "vulnerability"],
+            "answer": "courage",
+            "explanation": "Fortitude means courage in facing pain or adversity."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "ENIGMA most nearly means:",
+            "choices": ["puzzle", "motor", "energy", "clarity"],
+            "answer": "puzzle",
+            "explanation": "Enigma means puzzle or mystery."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "The athlete trained for the competition with VIGOR.",
+            "choices": ["stiffness", "intensity", "swelling", "concern"],
+            "answer": "intensity",
+            "explanation": "Vigor means intensity, strength, or energy."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "DUPE most nearly means:",
+            "choices": ["double", "delay", "deceive", "delight"],
+            "answer": "deceive",
+            "explanation": "To dupe means to trick or deceive someone."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "After careful study, she was able to DISCERN which model would be the best car for her needs.",
+            "choices": ["avoid", "spoil", "perceive", "savor"],
+            "answer": "perceive",
+            "explanation": "Discern means to perceive or recognize clearly."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "CANDID most nearly means:",
+            "choices": ["able", "whimsical", "valid", "honest"],
+            "answer": "honest",
+            "explanation": "Candid means frank, open, and honest."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Imitating a marching band, the children used pots and pans to make a loud CLAMOR.",
+            "choices": ["noise", "protest", "music", "harmony"],
+            "answer": "noise",
+            "explanation": "Clamor means loud noise or uproar."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "TRITE most nearly means:",
+            "choices": ["snug", "correct", "modern", "stale"],
+            "answer": "stale",
+            "explanation": "Trite means overused or stale."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "ALLEVIATE most nearly means:",
+            "choices": ["elevate", "improve", "encompass", "make foreign"],
+            "answer": "improve",
+            "explanation": "Alleviate means to relieve or improve a difficult situation."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "TANGIBLE most nearly means:",
+            "choices": ["real", "open", "graphic", "costly"],
+            "answer": "real",
+            "explanation": "Tangible means real or able to be touched."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "His professor made a point of acting ERUDITE.",
+            "choices": ["civil", "progressive", "scholarly", "amoral"],
+            "answer": "scholarly",
+            "explanation": "Erudite means scholarly or well-educated."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Many times, the older sibling holds DOMINION over his younger siblings.",
+            "choices": ["authority", "safety", "ability", "guilt"],
+            "answer": "authority",
+            "explanation": "Dominion means authority or control."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "The city council sought REPARATIONS for the oil spill.",
+            "choices": ["compensation", "sadness", "thanks", "antipathy"],
+            "answer": "compensation",
+            "explanation": "Reparations means compensation for damage or loss."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "Everyone says he lost the election due to lack of INITIATIVE.",
+            "choices": ["satisfaction", "irritation", "money", "ambition"],
+            "answer": "ambition",
+            "explanation": "Initiative means ambition or the ability to take action independently."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "It is IMPERATIVE that you pursue training or education beyond high school in order to get a good job.",
+            "choices": ["sad", "timely", "open", "crucial"],
+            "answer": "crucial",
+            "explanation": "Imperative means crucial or absolutely necessary."
+          },
+          {
+            "category": "Word Knowledge",
+            "question": "He promised to COOPERATE with the authorities.",
+            "choices": ["fight", "talk", "work with", "placate"],
+            "answer": "work with",
+            "explanation": "Cooperate means to work with others toward a common goal."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "Machine screws:",
+            "choices": [
+              "are made by machines",
+              "can be used interchangeably with woodscrews",
+              "fasten metal parts",
+              "are machined to fine tolerances"
+            ],
+            "answer": "fasten metal parts",
+            "explanation": "Machine screws are designed to fasten metal parts together securely."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "Double-headed nails are used:",
+            "choices": [
+              "to reinforce a joint",
+              "on temporary construction",
+              "to make frames for furniture",
+              "when a larger striking surface is needed"
+            ],
+            "answer": "on temporary construction",
+            "explanation": "Double-headed nails are used in temporary construction so they can be easily removed."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "To thin paint, use:",
+            "choices": ["turpentine", "mineral spirits", "benzene", "varnish"],
+            "answer": "mineral spirits",
+            "explanation": "Mineral spirits are commonly used to thin oil-based paints."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "The purpose of the drive shaft is to connect the:",
+            "choices": [
+              "piston to the transmission",
+              "differential to the transmission",
+              "flywheel to the crankshaft",
+              "camshaft to the crankshaft"
+            ],
+            "answer": "differential to the transmission",
+            "explanation": "The drive shaft transmits power from the transmission to the differential."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "The order in which an engine's spark plugs fire is established by the order in which the:",
+            "choices": [
+              "plugs are mounted in the engine",
+              "plug leads are connected to the distributor cap",
+              "condenser is connected",
+              "contact points are opened"
+            ],
+            "answer": "plug leads are connected to the distributor cap",
+            "explanation": "The firing order is determined by how the plug leads are connected to the distributor cap."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "The terminals exposed on the ignition induction coil are:",
+            "choices": [
+              "two secondary and one primary",
+              "one secondary and one primary",
+              "one secondary and two primary",
+              "two secondary and two primary"
+            ],
+            "answer": "one secondary and two primary",
+            "explanation": "Ignition coils typically have one secondary terminal and two primary terminals."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "Battery electrolyte is a mixture of distilled water and:",
+            "choices": ["baking soda", "sulfuric acid", "lead peroxide", "carbon particles"],
+            "answer": "sulfuric acid",
+            "explanation": "Battery electrolyte is a mixture of sulfuric acid and distilled water."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "The brushes in an alternator ride on:",
+            "choices": ["the commutator", "the stator", "slip rings", "the heat sink"],
+            "answer": "slip rings",
+            "explanation": "Alternator brushes ride on slip rings to maintain electrical contact."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "When all other lights show normal illumination but one headlight is dim, it is a good sign that the:",
+            "choices": [
+              "battery is weak",
+              "headlight switch is defective",
+              "headlight unit needs adjustment",
+              "headlight has a poor ground connection"
+            ],
+            "answer": "headlight has a poor ground connection",
+            "explanation": "A dim headlight usually indicates a poor ground connection."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "If air gets into the hydraulic brake system:",
+            "choices": [
+              "brake application will be hard",
+              "it will have no effect",
+              "brake pedal action will be spongy",
+              "the brake pedal will stick"
+            ],
+            "answer": "brake pedal action will be spongy",
+            "explanation": "Air in the brake system causes spongy pedal action due to compressibility."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "The proportioning valve in a hydraulic brake system:",
+            "choices": [
+              "reduces pressure to the front brakes",
+              "controls the brake warning switch",
+              "is used only on drum-type brake systems",
+              "reduces pressure to the rear brakes"
+            ],
+            "answer": "reduces pressure to the rear brakes",
+            "explanation": "The proportioning valve reduces pressure to the rear brakes to prevent lockup."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "To fuse metals together, gas welding uses:",
+            "choices": [
+              "oxygen and acetylene to produce a flame",
+              "oxygen and fluorine to produce a flame",
+              "nitrogen and acetylene to produce a chemical reaction",
+              "flux and acetylene to create an arc"
+            ],
+            "answer": "oxygen and acetylene to produce a flame",
+            "explanation": "Gas welding uses oxygen and acetylene to produce a high-temperature flame."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "Tin snips are a type of:",
+            "choices": ["gas welding aid", "shear", "metal roof measuring tool", "nipper"],
+            "answer": "shear",
+            "explanation": "Tin snips are hand shears used to cut sheet metal."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "A combination wrench has:",
+            "choices": [
+              "an adjustable wrench on one end and an open-end wrench on the other",
+              "a box-end wrench on one end and an open-end wrench on the other",
+              "two box-end wrenches of successively larger sizes",
+              "two open-end wrenches of successively smaller sizes"
+            ],
+            "answer": "a box-end wrench on one end and an open-end wrench on the other",
+            "explanation": "Combination wrenches have a box end on one side and an open end on the other."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "Auger bits are used to:",
+            "choices": [
+              "make a dimple in metal to locate the bit as it starts to drill",
+              "make holes in any surface",
+              "make holes in metal",
+              "make holes in wood"
+            ],
+            "answer": "make holes in wood",
+            "explanation": "Auger bits are designed for boring holes in wood."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "A carpenter's square is used to:",
+            "choices": [
+              "tell if something is level",
+              "tell if something is vertical",
+              "draw lines at right angles (90°) to each other",
+              "draw lines at right angles (180°) to each other"
+            ],
+            "answer": "draw lines at right angles (90°) to each other",
+            "explanation": "Carpenter's squares are used to mark or measure 90° angles."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "In arc welding, TIG stands for:",
+            "choices": [
+              "Turner Insertion Gas",
+              "Tungsten Inert Gas",
+              "Torch Inert Gasification",
+              "Tin Impressible Galvanisation"
+            ],
+            "answer": "Tungsten Inert Gas",
+            "explanation": "TIG welding stands for Tungsten Inert Gas welding."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "An Allen wrench:",
+            "choices": [
+              "is made exclusively by the Allen Manufacturing Company, LLC",
+              "fits all kinds of screws",
+              "fits screws with an octagonal recess in the head",
+              "fits screws with a hexagonal recess in the head"
+            ],
+            "answer": "fits screws with a hexagonal recess in the head",
+            "explanation": "Allen wrenches are designed to fit hexagonal recesses in screw heads."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "An Allen wrench:",
+            "choices": [
+              "is made exclusively by the Allen Manufacturing Company, LLC",
+              "fits all kinds of screws",
+              "fits screws with an octagonal recess in the head",
+              "fits screws with a hexagonal recess in the head"
+            ],
+            "answer": "fits screws with a hexagonal recess in the head",
+            "explanation": "Allen wrenches are designed to fit screws with hexagonal recesses."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "A machine screw:",
+            "choices": [
+              "cannot cut threads in wooden surfaces",
+              "is only used for steel building construction",
+              "will work with any nut that has the correct diameter",
+              "can be used to cut threads in sheet metal"
+            ],
+            "answer": "will work with any nut that has the correct diameter",
+            "explanation": "Machine screws are designed to work with nuts of matching diameter and thread pitch."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "Uncontrolled, rapid drying of wood (for instance, lumber) causes:",
+            "choices": ["warping", "harmless discoloration", "checking and cracking", "an increase in wood strength"],
+            "answer": "checking and cracking",
+            "explanation": "Rapid drying causes wood fibers to split, leading to checking and cracking."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "A finishing nail has a ____ than a common nail.",
+            "choices": [
+              "larger head and larger diameter",
+              "larger head and smaller diameter",
+              "smaller head and smaller diameter",
+              "smaller head and larger diameter"
+            ],
+            "answer": "smaller head and smaller diameter",
+            "explanation": "Finishing nails are designed with smaller heads and diameters to be less visible."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "The piston of an internal combustion engine fits inside the:",
+            "choices": ["crankshaft", "cylinder", "radiator", "brake drum"],
+            "answer": "cylinder",
+            "explanation": "The piston moves up and down inside the cylinder to compress and expand gases."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "There are four types of fuel injection used in cars today. They are throttle body injection, multi-port injection, direct injection, and:",
+            "choices": [
+              "manual continuous electronic flow injection",
+              "sequential fuel injection",
+              "automatic circuitous injection",
+              "manual intermittent injection"
+            ],
+            "answer": "sequential fuel injection",
+            "explanation": "Sequential fuel injection delivers fuel to each cylinder individually in sequence."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "Most automobile engines are:",
+            "choices": ["two-stroke cycle engines", "three-stroke cycle engines", "four-stroke cycle engines", "six-stroke cycle engines"],
+            "answer": "four-stroke cycle engines",
+            "explanation": "Most car engines operate on the four-stroke cycle: intake, compression, power, exhaust."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "When a spark plug fires, it is part of the:",
+            "choices": ["power stroke", "exhaust stroke", "intake stroke", "compression stroke"],
+            "answer": "compression stroke",
+            "explanation": "The spark plug fires at the end of the compression stroke to ignite the fuel-air mixture."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "If the universal joints are broken and the car is standing still, the car will:",
+            "choices": [
+              "not move when the engine is revved up",
+              "increase in speed",
+              "work as usual",
+              "become impossible to push"
+            ],
+            "answer": "not move when the engine is revved up",
+            "explanation": "Broken universal joints prevent power from being transmitted to the wheels."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "When the clutch is engaged on a manual transmission, the clutch pedal will be:",
+            "choices": ["down", "up", "halfway down", "halfway up"],
+            "answer": "up",
+            "explanation": "Engaging the clutch means the pedal is released (up), connecting the engine to the transmission."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "What gear is the transmission in when the engine is driving the car directly?",
+            "choices": ["first gear", "second gear", "third gear", "fourth gear"],
+            "answer": "fourth gear",
+            "explanation": "In direct drive, the transmission is in high gear (often fourth), bypassing reduction gears."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "When the clutch is disengaged, the car will:",
+            "choices": ["be in reverse", "be in third gear", "be in neutral", "move quickly"],
+            "answer": "be in neutral",
+            "explanation": "Disengaging the clutch disconnects the engine from the transmission, leaving the car in neutral."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "A four-wheel vehicle driving on all four wheels is known as a:",
+            "choices": ["4x2", "2x4", "4x4", "4x6"],
+            "answer": "4x4",
+            "explanation": "A 4x4 vehicle has four-wheel drive, powering all four wheels."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "A squaring shear is used to:",
+            "choices": [
+              "cut metal off to a straight line",
+              "square a piece of metal",
+              "fold a piece of sheet metal",
+              "punch a piece of sheet metal"
+            ],
+            "answer": "cut metal off to a straight line",
+            "explanation": "Squaring shears are used to cut sheet metal along straight lines."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "If the engine will not start, the problem could be:",
+            "choices": ["the clutch slipping", "a clogged oil filter", "too much carbon in the drain holes or slots", "a weak battery"],
+            "answer": "a weak battery",
+            "explanation": "A weak battery often prevents the engine from cranking and starting."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "When the mixture of fuel and air burns in the cylinder, it creates a temperature of:",
+            "choices": ["4000° to 4500°F", "400° to 450°F", "1000° to 2500°F", "1250° to 1500°F"],
+            "answer": "4000° to 4500°F",
+            "explanation": "Combustion temperatures in cylinders reach approximately 4000° to 4500°F."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "The first emission control applied to automobile engines was called the:",
+            "choices": [
+              "preventive combustion venturi system",
+              "positive crankcase ventilation system",
+              "pollution control ventilation system",
+              "pollution combustion vertical system"
+            ],
+            "answer": "positive crankcase ventilation system",
+            "explanation": "The PCV system was the first emission control device used in cars."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "A tire that bears the code 'P 185/70 R 14' is:",
+            "choices": [
+              "a passenger-car tire that is 70 millimeters high",
+              "a passenger-car tire that is 185 millimeters wide",
+              "a radial tire that is 70 millimeters high",
+              "a P-metric tire that is 70 millimeters wide"
+            ],
+            "answer": "a passenger-car tire that is 185 millimeters wide",
+            "explanation": "The '185' in the code indicates the tire width in millimeters."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "In concrete work, to butter a concrete block means to:",
+            "choices": [
+              "put a finishing trowel to it",
+              "put a hawk on it",
+              "use a jointer on it",
+              "put mortar on it"
+            ],
+            "answer": "put mortar on it",
+            "explanation": "To butter a block means to apply mortar to its surface before laying."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "Which of the following is a hardwood?",
+            "choices": ["oak", "spruce", "pine", "nr"],
+            "answer": "oak",
+            "explanation": "Oak is a hardwood, while spruce and pine are softwoods."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "Which of the following is a softwood?",
+            "choices": ["poplar", "maple", "pine", "oak"],
+            "answer": "pine",
+            "explanation": "Pine is a softwood; poplar and maple are hardwoods."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "To prevent rapid drying, freshly cut logs are often:",
+            "choices": ["submerged in oil", "placed in kilns", "submerged in water", "placed in sheds to dry slowly"],
+            "answer": "submerged in water",
+            "explanation": "Logs are often submerged in water to prevent rapid drying and checking."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "A bumping hammer is used to smooth out dents by a(n):",
+            "choices": ["sheet metal duct worker", "auto body repairman", "bumper repairman", "none of the above"],
+            "answer": "auto body repairman",
+            "explanation": "Bumping hammers are used in auto body repair to smooth dents in sheet metal."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "A groover is used to:",
+            "choices": ["lock seams together", "make sheet metal seams", "open a seam", "fold a seam"],
+            "answer": "make sheet metal seams",
+            "explanation": "Groovers are tools used to create seams in sheet metal work."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "Sheet metal is formed into round cylinders by using a:",
+            "choices": ["squaring shear", "slip roll", "bar folder", "punch press"],
+            "answer": "slip roll",
+            "explanation": "Slip rolls are used to roll sheet metal into cylindrical shapes."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "The tip of a soldering iron is coated with solder before it is used. This process of coating the tip is called:",
+            "choices": ["welding", "brazing", "soldering", "tinning"],
+            "answer": "tinning",
+            "explanation": "Tinning is the process of coating a soldering iron tip with solder to improve heat transfer."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "Punches are used in sheet metal work to:",
+            "choices": ["flatten the metal", "make holes in the metal", "groove the metal", "snip the metal"],
+            "answer": "make holes in the metal",
+            "explanation": "Punches are used to create holes in sheet metal."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "A squaring shear is used to:",
+            "choices": ["cut metal off to a straight line", "square a piece of metal", "fold a piece of sheet metal", "punch a piece of sheet metal"],
+            "answer": "cut metal off to a straight line",
+            "explanation": "Squaring shears are used to cut sheet metal along straight lines."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "A gauge shows the complete loss of oil pressure while driving. The best action is to:",
+            "choices": [
+              "Stop by the gas station when convenient to top off the oil",
+              "Pull over immediately and investigate the problem",
+              "Drive directly to a repair garage",
+              "Assume everything is fine and continue driving as usual"
+            ],
+            "answer": "Pull over immediately and investigate the problem",
+            "explanation": "Loss of oil pressure can cause severe engine damage; stop immediately to investigate."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "A two-cycle engine will normally be found on:",
+            "choices": ["small cars", "large diesel trucks", "trucks, vans, and some cars", "snowmobiles, chainsaws, and some motorcycles"],
+            "answer": "snowmobiles, chainsaws, and some motorcycles",
+            "explanation": "Two-cycle engines are common in small machines like chainsaws, motorcycles, and snowmobiles."
+          },
+          {
+            "category": "Auto and Shop Information",
+            "question": "The difference between a single-acting and an opposed piston engine is:",
+            "choices": [
+              "Single-acting piston engines wear longer",
+              "Opposed piston engines have cylinders set in a V-shape",
+              "Single-acting piston engines have one piston per cylinder and opposed piston engines have two",
+              "Single-acting piston engines are used with carburetors and opposed piston engines are used with fuel injectors"
+            ],
+            "answer": "Single-acting piston engines have one piston per cylinder and opposed piston engines have two",
+            "explanation": "Opposed piston engines use two pistons per cylinder, while single-acting engines use one."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Force is defined as:",
+            "choices": ["mass × acceleration", "velocity ÷ time", "distance ÷ pressure", "work ÷ power"],
+            "answer": "mass × acceleration",
+            "explanation": "Force equals mass multiplied by acceleration (Newton’s Second Law)."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Vector quantities are:",
+            "choices": [
+              "forces that have only size",
+              "forces that have both size and direction",
+              "forces that have only direction",
+              "forces that cancel one another"
+            ],
+            "answer": "forces that have both size and direction",
+            "explanation": "Vector quantities include both magnitude and direction (e.g., velocity, force)."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Equilibrium is:",
+            "choices": [
+              "a stable situation in which forces cancel one another",
+              "a situation where velocity is constant",
+              "a situation where acceleration is zero",
+              "a situation where pressure is equal"
+            ],
+            "answer": "a stable situation in which forces cancel one another",
+            "explanation": "Equilibrium occurs when opposing forces balance out, resulting in stability."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Velocity is:",
+            "choices": [
+              "the rate at which velocity changes",
+              "the speed and direction of a moving object",
+              "force ÷ area",
+              "distance ÷ time"
+            ],
+            "answer": "the speed and direction of a moving object",
+            "explanation": "Velocity describes both speed and direction of motion."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Acceleration is:",
+            "choices": [
+              "the rate at which velocity changes",
+              "the speed and direction of a moving object",
+              "force ÷ area",
+              "work ÷ time"
+            ],
+            "answer": "the rate at which velocity changes",
+            "explanation": "Acceleration measures how quickly velocity changes over time."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Pressure is:",
+            "choices": [
+              "force ÷ distance",
+              "force ÷ area",
+              "work ÷ time",
+              "mass × acceleration"
+            ],
+            "answer": "force ÷ area",
+            "explanation": "Pressure is force applied per unit area."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Work is:",
+            "choices": ["force × distance", "force ÷ area", "mass × acceleration", "velocity ÷ time"],
+            "answer": "force × distance",
+            "explanation": "Work is the product of force applied and the distance moved."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Power is:",
+            "choices": ["work ÷ time", "force ÷ area", "mass × acceleration", "velocity ÷ distance"],
+            "answer": "work ÷ time",
+            "explanation": "Power measures the rate at which work is done."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Mechanical advantage is:",
+            "choices": [
+              "when a machine multiplies the force you use",
+              "when a machine reduces velocity",
+              "when a machine increases acceleration",
+              "when a machine cancels equilibrium"
+            ],
+            "answer": "when a machine multiplies the force you use",
+            "explanation": "Mechanical advantage allows a smaller input force to achieve a larger output force."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Mechanical advantage of a lever is:",
+            "choices": [
+              "effort arm ÷ resistance arm",
+              "resistance ÷ effort",
+              "length of ramp ÷ height of ramp",
+              "work ÷ time"
+            ],
+            "answer": "effort arm ÷ resistance arm",
+            "explanation": "The mechanical advantage of a lever is the ratio of effort arm length to resistance arm length."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Mechanical advantage of a ramp is:",
+            "choices": [
+              "length of ramp ÷ height of ramp",
+              "effort arm ÷ resistance arm",
+              "mass × acceleration",
+              "work ÷ time"
+            ],
+            "answer": "length of ramp ÷ height of ramp",
+            "explanation": "The mechanical advantage of a ramp is the ratio of its length to its height."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Block and tackle pulleys:",
+            "choices": [
+              "make lifting heavy objects easier or change the direction of the pull",
+              "increase velocity",
+              "reduce acceleration",
+              "cancel equilibrium"
+            ],
+            "answer": "make lifting heavy objects easier or change the direction of the pull",
+            "explanation": "Block and tackle systems reduce effort needed to lift heavy loads."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Bevel gears are used to:",
+            "choices": [
+              "connect gears that have shafts at different angles",
+              "increase velocity",
+              "reduce acceleration",
+              "cancel equilibrium"
+            ],
+            "answer": "connect gears that have shafts at different angles",
+            "explanation": "Bevel gears connect shafts that are not parallel, often at right angles."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Wheel and axle mechanical advantage is:",
+            "choices": [
+              "radius of wheel ÷ radius of axle",
+              "length of ramp ÷ height of ramp",
+              "effort arm ÷ resistance arm",
+              "work ÷ time"
+            ],
+            "answer": "radius of wheel ÷ radius of axle",
+            "explanation": "Mechanical advantage of a wheel and axle depends on the ratio of wheel radius to axle radius."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "The distance between the ridges of the spiral on the screw of a vise is called the:",
+            "choices": ["pitch", "radius", "thread", "torque"],
+            "answer": "pitch",
+            "explanation": "Pitch is the distance between threads on a screw."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Hydraulic jacks use:",
+            "choices": [
+              "a nearly incompressible liquid, such as oil, to exert force",
+              "compressed air to exert force",
+              "springs to exert force",
+              "gears to exert force"
+            ],
+            "answer": "a nearly incompressible liquid, such as oil, to exert force",
+            "explanation": "Hydraulic jacks rely on incompressible fluids to transmit force."
+          },
+          {
+            "category": "Mechanical Comprehension",
+            "question": "Mechanical advantage of a hydraulic jack is determined by:",
+            "choices": [
+              "the ratio between the diameters of the two cylinders",
+              "the length of the ramp ÷ height of ramp",
+              "effort arm ÷ resistance arm",
+              "work ÷ time"
+            ],
+            "answer": "the ratio between the diameters of the two cylinders",
+            "explanation": "Hydraulic jack advantage depends on the ratio of cylinder diameters."
+          },
+          {
+            "category": "Assembling Objects",
+            "question": "Connecting the pieces may involve rotating or moving them, but it will never involve...?",
+            "choices": ["Mirroring the piece", "Adding new pieces", "Changing the size", "Changing the color"],
+            "answer": "Mirroring the piece",
+            "explanation": "Pieces can only be rotated clockwise or counterclockwise, but never mirrored."
+          },
+          {
+            "category": "Assembling Objects",
+            "question": "For puzzle item questions, what must be present?",
+            "choices": [
+              "Only some of the shapes",
+              "All shapes in the question",
+              "New shapes added",
+              "Mirrored shapes"
+            ],
+            "answer": "All shapes in the question",
+            "explanation": "All shapes shown in the question must appear in the answer; no new ones can be added."
+          },
+          {
+            "category": "Assembling Objects",
+            "question": "In puzzle questions, can you mirror a piece to get the right answer?",
+            "choices": ["Yes", "No"],
+            "answer": "No",
+            "explanation": "Puzzle questions allow rotation and movement, but never mirroring (flipping)."
+          },
+          {
+            "category": "Assembling Objects",
+            "question": "What is a good tip for answering connection questions?",
+            "choices": [
+              "Focus on the size of the pieces",
+              "Note the location of the dot on the original shape",
+              "Add new shapes if needed",
+              "Mirror the pieces"
+            ],
+            "answer": "Note the location of the dot on the original shape",
+            "explanation": "Checking the dot’s location helps eliminate incorrect answers quickly."
+          },
+          {
+            "category": "Assembling Objects",
+            "question": "What is a good tip for answering puzzle questions?",
+            "choices": [
+              "Select one piece from the original diagram and scan the answers",
+              "Always mirror the pieces",
+              "Add new shapes to match",
+              "Ignore the original diagram"
+            ],
+            "answer": "Select one piece from the original diagram and scan the answers",
+            "explanation": "Scanning for one original piece across the answers helps eliminate false options quickly."
+          }
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+    ]
+  }
+  

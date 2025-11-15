@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Go ZB Quiz</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+    font-family: "Poppins", sans-serif;
+    background: #f5f6fa;
+    padding-top: 80px;
+    margin: 0;
+}
+
+/* HEADER */
+#header {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%;
+    background: #0984e3;
+    padding: 18px 0;
+    text-align: center;
+    color: white;
+    font-size: 23px;
+    font-weight: 600;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    z-index: 10;
+}
+
+/* MAIN BOX */
+#app {
+    width: 350px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 18px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+/* CATEGORY BOX */
+#categoryBox {
+    text-align: center;
+}
+
+#categorySelect {
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+}
+
+/* PROGRESS BAR */
+#progressContainer {
+    width: 100%;
+    height: 15px;
+    background: #dfe6e9;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+#progressBar {
+    height: 100%;
+    width: 0%;
+    background: #0984e3;
+    border-radius: 10px;
+    transition: width 0.3s;
+}
+
+/* CATEGORY DISPLAY */
+#categoryDisplay {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: #0a3d62; /* dark blue */
+    margin-bottom: 10px;
+}
+
+/* QUESTIONS */
+.choice {
+    background: #f1f2f6;
+    padding: 12px;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.choice:hover { background: #dfe6e9; }
+
+.correct { background: #55efc4 !important; }
+.wrong { background: #ff7675 !important; }
+
+/* Explanation text */
+.explanation {
+    color: #27ae60; /* green */
+    font-style: italic;
+    margin-top: 10px;
+}
+
+/* Buttons */
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background: #0984e3;
+    color: white;
+    margin-top: 15px;
+    border-radius: 12px;
+    font-size: 17px;
+    cursor: pointer;
+}
+button:hover { background: #74b9ff; }
+
+/* Main Menu button inside quiz box */
+#mainMenuBtn {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background: #0984e3;
+    color: white;
+    margin-top: 15px;
+    border-radius: 12px;
+    font-size: 17px;
+    cursor: pointer;
+}
+#mainMenuBtn:hover { background: #74b9ff; }
+</style>
+</head>
+
+<body>
+
+<div id="header">Go ZB</div>
+
+<div id="app">
+
+    <!-- CATEGORY SELECTION -->
+    <div id="categoryBox">
+        <h2>Select Category</h2>
+        <select id="categorySelect">
+            <option value="any">Any Category</option>
+            <option value="Word Knowledge">Word Knowledge</option>
+            <option value="Paragraph Comprehension">Paragraph Comprehension</option>
+            <option value="Arithmetic Reasoning">Arithmetic Reasoning</option>
+            <option value="Auto and Shop Information">Auto and Shop Information</option>
+            <option value="Mechanical Comprehension">Mechanical Comprehension</option>
+            <option value="Assembling Objects">Assembling Objects</option>
+        </select>
+
+        <button onclick="startQuiz()">Start Quiz</button>
+
+        <!-- Leaderboard will be injected here -->
+        <div id="leaderboard"></div>
+    </div>
+
+    <!-- QUIZ -->
+    <div id="quizBox" style="display:none;">
+        <div id="categoryDisplay"></div>
+
+        <div id="progressContainer"><div id="progressBar"></div></div>
+
+        <h2 id="question">Loading...</h2>
+        <div id="choices"></div>
+
+        <button id="nextBtn" style="display:none;">Next</button>
+        <!-- Main Menu button appended here by JS -->
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
