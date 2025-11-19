@@ -190,7 +190,9 @@ function showLeaderboard() {
         "Arithmetic Reasoning",
         "Auto and Shop Information",
         "Mechanical Comprehension",
-        "Assembling Objects"
+        "Assembling Objects",
+        "General Science",
+        "Mathematics Knowledge"
     ];
 
     categories.forEach(cat => {
